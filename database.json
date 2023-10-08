@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 1000,
+    "stock": 5
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "category": "Electronics",
+    "price": 700,
+    "stock": 10
+  },
+  {
+    "id": 3,
+    "name": "Desk Chair",
+    "category": "Furniture",
+    "price": 150,
+    "stock": 20
+  },
+  {
+    "id": 4,
+    "name": "Coffee Maker",
+    "category": "Appliances",
+    "price": 50,
+    "stock": 15
+  },
+  {
+    "id": 5,
+    "name": "Running Shoes",
+    "category": "Sports",
+    "price": 80,
+    "stock": 30
+  }
+
+]
